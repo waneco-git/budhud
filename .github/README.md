@@ -111,3 +111,6 @@ clovervidia: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
 ## Previous Fonts
 * Roboto Condensed: https://www.fontsquirrel.com/fonts/roboto
 * Designosaur: https://fontlibrary.org/en/font/designosaur
+
+## Additions
+* Horizontal speedometer [SgtPugs](https://www.teamfortress.tv/61875/horizontal-velocity-hud-speedometer)
