@@ -1,3 +1,6 @@
+
+<details>
+<summary>Old Readme</summary>
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/509599/195221902-72549ed7-bee4-4d86-bcb5-694d23d72568.gif" alt="budhud banner">
@@ -52,6 +55,7 @@ budhud includes a shell script (`budhud Updater.ps1`, **Windows users only**) in
 
 ## HUD Installer / Customizer
 If you would like to install and customize budhud (as well as other huds) quickly and easily, check out the  [TF2HUD Editor](https://github.com/CriticalFlaw/TF2HUD.Editor) created by [CriticalFlaw](https://github.com/CriticalFlaw/) and [Revan](https://github.com/cooolbros). You can read more about it [here](https://criticalflaw.ca/TF2HUD.Editor/).
+</details>
 
 ## HUD Credits
 ### HUD Font
