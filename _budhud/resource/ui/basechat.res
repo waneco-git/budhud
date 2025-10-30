@@ -9,8 +9,8 @@
     "HudChat"
     {
         "xpos"                                                      "7"
-        "ypos"                                                      "5"
-        "wide"                                                      "240"
+        "ypos"                                                      "230"
+        "wide"                                                      "220"
         "tall"                                                      "110"
         "fgcolor"                                                   "bh_white"
         "bgcolor_override"                                          "0 0 0 0"
