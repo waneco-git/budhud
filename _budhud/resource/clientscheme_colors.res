@@ -120,13 +120,15 @@ Scheme
         // Uber Meter
         "bh_UberMeter_Base"                                         "255 255 255 255"   // Uber chargemeter fill color
         "bh_UberMeter_Background"                                   "150 150 150 255"   // Uber chargemeter background
-        "bh_UberMeter_Flash1"                                       "243 157 048 255"   // When full, uber meter will change between these two values
-        "bh_UberMeter_Flash2"                                       "204 093 027 255"
+        "bh_UberMeter_Flash1"                                       "255 0 128 255"   // When full, uber meter will change between these two values
+        "bh_UberMeter_Flash2"                                       "255 0 225 255"
 
         // Uber Percentage
         "bh_UberLabel_Base"                                         "255 255 255 255"   // Uber percentage base color
-        "bh_UberLabel_Flash1"                                       "243 157 048 255"   // When full, uber percentage will change between these two values
-        "bh_UberLabel_Flash2"                                       "204 093 027 255"
+        "bh_UberLabel_Flash1"                                       "255 0 128 255"   // When full, uber percentage will change between these two values
+        "bh_UberLabel_Flash2"                                       "255 0 225 255"
+
+		"ShadowPurple"			"214 186 223 255"
 
         /////////////////////////////////////////////
         // Customization: Rainbow Charge Meter Colors
